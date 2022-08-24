@@ -2,6 +2,7 @@ body{
     font-family: Poppins;
     font-size: 1rem;
     color: #4D4F62;
+    background-color: #F2F2F2;
     font-style: normal;
     display: flex;
     flex-direction: column;
